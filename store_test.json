@@ -1,0 +1,5 @@
+{
+    "httpMethod": "POST",
+    "path": "/store",
+    "body": "{\"service\": \"github\", \"username\": \"ankur123\", \"password\": \"$2b$12$AbCdEfGhIjKlMnOpQrStUvWxYz12345678901234567890123456\"}"
+  }

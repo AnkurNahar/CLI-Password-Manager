@@ -1,0 +1,7 @@
+{
+    "httpMethod": "GET",
+    "path": "/retrieve",
+    "queryStringParameters": {
+      "service": "github"
+    }
+  }
