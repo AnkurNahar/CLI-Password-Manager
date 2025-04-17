@@ -12,8 +12,6 @@ A serverless, secure **Command-Line Password Manager** built with **Python** and
 
 This project allows you to **store** and **retrieve** encrypted passwords using a simple Python CLI. Data is encrypted **locally** using `cryptography.fernet`, then sent securely to a **serverless backend** via AWS API Gateway.
 
-**Source Code**: [GitHub Repository](https://github.com/AnkurNahar/CLI-Password-Manager)
-
 ---
 
 ## 🚧 Architecture
